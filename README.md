@@ -52,11 +52,7 @@ Este proyecto me permitió:
 - Integrar base de datos para registrar proyectos.  
 - Publicar la web en un hosting accesible al público.  
 
----
 
-## 📸 Vista previa
-
-![Vista previa](https://scontent.fmex36-1.fna.fbcdn.net/v/t39.30808-6/471154171_122132578946435218_8640230279674833635_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGC4YcF5kYOn5KmPq2phhOQcuVSuQpwAcBy5VK5CnABwEzqRxOUjyv5eM92ytVSquvnT9kgcbdfcKZgkL4MvQRH&_nc_ohc=B-4H88zyIp4Q7kNvwHbQPht&_nc_oc=AdlSqEfTD53EigwEwGX8prf3UowLHJE0nPxYHtILfyOXiuQQC-ZMgVtMl1bXSpO6_s8&_nc_zt=23&_nc_ht=scontent.fmex36-1.fna&_nc_gid=xHirfiAblGBsURZD4RvUXg&oh=00_AfXsn-s098Dc4V3ONYJbbiGDsjxJdFdj0uvHGwCNWCvZEQ&oe=68B6595C)
 
 ---
 
